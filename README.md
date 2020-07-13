@@ -1,4 +1,4 @@
-DisableMonitor [![PayPal donate button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=tobias%40salzmann%2eto&lc=US&item_name=DisableMonitor%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest "Donate with PayPal") [![Gittip donate button](https://img.shields.io/gratipay/Eun.svg)](https://gratipay.com/Eun/ "Donate weekly to this project using Gittip") [![Flattr](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Eun&url=https%3A%2F%2Fgithub.com%2FEun%2FDisableMonitor "Flattr this") [![Join the chat at https://gitter.im/Eun/DisableMonitor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Eun/DisableMonitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+DisableMonitor [![PayPal donate button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=eun%40su%2eam&lc=US&item_name=DisableMonitor%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest "Donate with PayPal") [![Gittip donate button](https://img.shields.io/gratipay/Eun.svg)](https://gratipay.com/Eun/ "Donate weekly to this project using Gittip") [![Flattr](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Eun&url=https%3A%2F%2Fgithub.com%2FEun%2FDisableMonitor "Flattr this") [![Join the chat at https://gitter.im/Eun/DisableMonitor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Eun/DisableMonitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ==============
 Adds the missing feature to disable a monitor on your Mac!
 
@@ -7,14 +7,7 @@ Easily disable, enable or change the resolution of a monitor!
 
 ![](https://raw.githubusercontent.com/Eun/DisableMonitor/res/screenshot1.png)
 
-[![Download](https://raw.githubusercontent.com/Eun/DisableMonitor/res/download.png)](https://github.com/Eun/DisableMonitor/releases/download/G1.92/DisableMonitor-G1.92.zip)
-
-Warning
-=======
-**It has been reported that the software is able to cause irretrievable damages to your computer.**  
-**Use at your own risk!**
-
-**The project development has been stopped and won't be continued, if you want to be a maintainer consider opening an issue.**
+[![Download](https://raw.githubusercontent.com/Eun/DisableMonitor/res/download.png)](https://github.com/Eun/DisableMonitor/releases/)
 
 Console Usage
 ============
