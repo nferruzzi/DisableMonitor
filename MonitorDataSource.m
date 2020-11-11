@@ -22,6 +22,8 @@
 #import "DisplayIDAndNameCondition.h"
 #import "ResolutionDataSource.h"
 #include <stdlib.h>
+#include "DisplayData.h"
+
 
 @implementation MonitorDataSource
 @synthesize display;
